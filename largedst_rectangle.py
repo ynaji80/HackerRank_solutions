@@ -8,5 +8,3 @@ def largestRectangle(h):
         if maxi < mini:
             maxi = mini
     return maxi
-l =[8979, 4570, 6436, 5083, 7780,3269,5400,7579,2324,2116]
-print(l[0:1])
